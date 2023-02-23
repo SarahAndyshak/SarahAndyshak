@@ -4,6 +4,9 @@
 - 📫 Find me on [linkedin](https://www.linkedin.com/in/sarah-andyshak/)
 - 🖍️ Check out my [art portfolio](https://sarahandyshak.com/)
 
+I'm learning:<br><br>
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Csharp)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React)](https://github.com/harish-sethuraman/readme-components)
+
 <!--
 **SarahAndyshak/SarahAndyshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
