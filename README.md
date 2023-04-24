@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&width=435&lines=Sarah+Andyshak+is...)](https://git.io/typing-svg)
 
-- 🌱 Currently studying web development at Epicodus. These repositories are my weekly solo projects and projects created with fellow students for practice.
+- 🌱 Learning more and more about web and software development!
 - 📫 Find me on [linkedin](https://www.linkedin.com/in/sarah-andyshak/)
 - 🖍️ Check out my [art portfolio](https://sarahandyshak.com/)
 
