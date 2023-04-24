@@ -5,7 +5,7 @@
 - 🖍️ Check out my [art portfolio](https://sarahandyshak.com/)
 
 <div align="center">
-I'm learning:
+I'm working with:
 <br>
 <!-- [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Csharp)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React)](https://github.com/harish-sethuraman/readme-components)[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=MySQL)](https://github.com/harish-sethuraman/readme-components) -->
 
