@@ -2,6 +2,7 @@
 
 - 🌱 Learning more and more about web and software development!
 - 📫 Find me on [linkedin](https://www.linkedin.com/in/sarah-andyshak/)
+- 📃 Learn about my experience with [my online resume](https://sarah-andyshak-resume.vercel.app/)
 - 🖍️ Check out my [art portfolio](https://sarahandyshak.com/)
 
 <div align="center">
